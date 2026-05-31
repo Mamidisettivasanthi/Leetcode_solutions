@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
