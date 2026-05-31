@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
