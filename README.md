@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
