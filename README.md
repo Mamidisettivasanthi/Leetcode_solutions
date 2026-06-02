@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0819-most-common-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
