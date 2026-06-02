@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 ## String
