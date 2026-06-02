@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
+| [1089-duplicate-zeros](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1089-duplicate-zeros](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
