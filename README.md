@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
