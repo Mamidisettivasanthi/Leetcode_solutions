@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1399-count-largest-group) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1122-relative-sort-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
