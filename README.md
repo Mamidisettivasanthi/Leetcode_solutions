@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1640-check-array-formation-through-concatenation) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
