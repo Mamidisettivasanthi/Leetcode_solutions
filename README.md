@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1640-check-array-formation-through-concatenation) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
