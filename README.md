@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-print-foobar-alternately](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1115-print-foobar-alternately) |
 | [1117-building-h2o](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1117-building-h2o) |
 | [1226-the-dining-philosophers](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1226-the-dining-philosophers) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
