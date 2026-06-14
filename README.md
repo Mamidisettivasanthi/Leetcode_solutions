@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1089-duplicate-zeros) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
