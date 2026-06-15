@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -279,5 +280,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
