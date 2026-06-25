@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1920-build-array-from-permutation](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
