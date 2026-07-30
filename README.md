@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
