@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0605-can-place-flowers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0400-nth-digit) |
+| [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -293,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
