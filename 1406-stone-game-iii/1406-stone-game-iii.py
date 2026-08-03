@@ -17,6 +17,7 @@ class Solution:
                     dp[i],
                     total - dp[j + 1]
                 )
+
         if dp[0] > 0:
             return "Alice"
         elif dp[0] < 0:
