@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1399-count-largest-group) |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -397,4 +400,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
