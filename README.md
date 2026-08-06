@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
