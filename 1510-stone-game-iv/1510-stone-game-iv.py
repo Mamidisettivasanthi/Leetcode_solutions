@@ -9,7 +9,5 @@ class Solution:
                 if not dp[i - j * j]:
                     dp[i] = True
                     break
-
                 j += 1
-
         return dp[n]
