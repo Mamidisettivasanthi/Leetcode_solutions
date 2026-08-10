@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -405,16 +407,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
