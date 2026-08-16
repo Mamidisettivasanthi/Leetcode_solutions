@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2652-sum-multiples) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -420,16 +424,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -438,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
