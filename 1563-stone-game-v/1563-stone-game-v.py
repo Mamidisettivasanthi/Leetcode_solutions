@@ -31,8 +31,7 @@ class Solution:
                     )
 
                 elif left_sum > right_sum:
-                    # As k increases, right_sum only decreases,
-                    # so we can stop completely.
+                  
                     if ans >= 2 * right_sum:
                         break
 
