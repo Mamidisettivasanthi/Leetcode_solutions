@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
