@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
