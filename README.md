@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -438,18 +442,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
