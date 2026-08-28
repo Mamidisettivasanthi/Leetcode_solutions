@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0400-nth-digit) |
