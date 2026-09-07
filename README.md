@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1510-stone-game-iv) |
