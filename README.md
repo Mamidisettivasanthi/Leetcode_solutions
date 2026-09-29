@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
@@ -541,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
