@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -539,10 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mamidisettivasanthi/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
